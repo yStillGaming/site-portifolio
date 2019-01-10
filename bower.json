@@ -1,0 +1,21 @@
+{
+  "name": "Site",
+  "homepage": "https://github.com/yStillGaming/site-portifolio",
+  "authors": [
+    "yStillGaming <ystillgod@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
